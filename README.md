@@ -39,9 +39,9 @@ Foram utilizados dados públicos do dataset da Amazon Brazil 2023 ([fonte dos da
 ## 🧩 5.1 Premissas Adotadas
 Para este protótipo, foram feitas algumas considerações importantes:
 
-Credenciais Pagas para IA: Modelos de Inteligência Artificial, como o ChatGPT (usado neste caso), para serem utilizados em maior escala, requerem credenciais pagas (com cerca de U$ 5,00 você já consegue fazer muita coisa), como uma API_KEY, ou uma chave de acesso ao modelo. Diante dessa limitação, optou-se por trabalhar em pequena escala.
-Escopo Reduzido: Foram consideradas apenas duas colunas do conjunto de dados original (dataframe): 'title' e 'categoryName' e uma amostragem aleatória de 50 linhas. A coluna 'title' traz os nomes dos produtos e a coluna alvo será a 'categoryName', a qual traz a categoria do produto classificado. Como a amostragem dos dados foi feita de forma aleatória, variações nas métricas do modelo são esperadas.
-Divisão de Dados: Foram separados 40 linhas para os dados de treino e 10 linhas para os dados de teste. Com maiores recursos, é possível trabalhar com maiores conjuntos de dados, ou até fazer uma amostragem estratificada que seja representativa da população.
+- Credenciais Pagas para IA: Modelos de Inteligência Artificial, como o ChatGPT (usado neste caso), para serem utilizados em maior escala, requerem credenciais pagas (com cerca de U$ 5,00 você já consegue fazer muita coisa), como uma API_KEY, ou uma chave de acesso ao modelo. Diante dessa limitação, optou-se por trabalhar em pequena escala.
+- Escopo Reduzido: Foram consideradas apenas duas colunas do conjunto de dados original (dataframe): 'title' e 'categoryName' e uma amostragem aleatória de 50 linhas. A coluna 'title' traz os nomes dos produtos e a coluna alvo será a 'categoryName', a qual traz a categoria do produto classificado. Como a amostragem dos dados foi feita de forma aleatória, variações nas métricas do modelo são esperadas.
+- Divisão de Dados: Foram separados 40 linhas para os dados de treino e 10 linhas para os dados de teste. Com maiores recursos, é possível trabalhar com maiores conjuntos de dados, ou até fazer uma amostragem estratificada que seja representativa da população.
 
 # 🔧 6.0 Metodologia Proposta
 ## 🏗️ 6.1 Estrutura do Modelo
