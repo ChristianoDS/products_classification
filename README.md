@@ -49,13 +49,8 @@ O modelo utiliza o LLM ChatGPT para realizar a classificação dos produtos. A m
 
 Treinamento com Few-shot Prompting: Utilizando um dicionário de 40 exemplos de classificação produto-categoria para treinar o LLM.
 Classificação Automática: O modelo recebe como entrada o nome de um novo produto e o classifica em uma das categorias possíveis.
-## 🛠️ 6.2 Técnicas de Pré-processamento
-Para melhorar a qualidade dos dados e o desempenho do modelo, foram aplicadas técnicas de pré-processamento, como:
 
-Limpeza de Dados: Remoção de dados duplicados e inconsistentes.
-Normalização de Texto: Conversão de texto para um formato consistente (por exemplo, todas as letras em minúsculas).
-Tokenização: Quebra de texto em unidades menores para melhor análise pelo modelo.
-## 🧠 6.3 Lógica por Trás do Modelo de Classificação
+## 🧠 6.2 Lógica por Trás do Modelo de Classificação
 Toda a lógica envolvida no modelo é baseada no prompt para o Large Language Model (LLM). LLMs são sistemas de inteligência artificial avançados projetados para entender, gerar e traduzir texto em linguagem natural. Eles são treinados em vastos conjuntos de dados de texto e aprendem a prever a próxima palavra em uma sequência, permitindo-lhes gerar respostas coerentes e contextuais.
 
 A ideia aqui foi criar um dicionário com 40 exemplos de classificação de produtos ({'title': 'categoryName'}) e mostrar ao modelo (GPT-4). Depois disso, apresentar uma lista com todos os valores únicos de classificação possíveis ('categoryName') para contextualizar quais strings de classificação o modelo terá que fazer.
