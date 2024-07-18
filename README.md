@@ -34,7 +34,7 @@ Aumento da Eficiência Operacional: Produtos disponíveis para venda mais rapida
 Melhoria na Experiência do Cliente: Navegação mais eficiente e precisa na plataforma.
 
 # 📊 5.0 Aquisição dos Dados
-Foram utilizados dados públicos do dataset da Amazon Brazil 2023 (fonte dos dados) para o desenvolvimento do protótipo. Com mais de 1.3 milhões de produtos únicos, o dataset oferece uma ampla visão dos produtos disponíveis no website da Amazon Brasil, uma das maiores revendedoras online do país. Coletados através de um vasto processo de web scrapping em 2023, esse conjunto de dados traz informações como nome do produto, preço, avaliações e mais.
+Foram utilizados dados públicos do dataset da Amazon Brazil 2023 ([fonte dos dados](https://www.kaggle.com/datasets/asaniczka/amazon-brazil-products-2023-1-3m-products)) para o desenvolvimento do protótipo. Com mais de 1.3 milhões de produtos únicos, o dataset oferece uma ampla visão dos produtos disponíveis no website da Amazon Brasil, uma das maiores revendedoras online do país. Coletados através de um vasto processo de web scrapping em 2023, esse conjunto de dados traz informações como nome do produto, preço, avaliações e mais.
 
 ## 🧩 5.1 Premissas Adotadas
 Para este protótipo, foram feitas algumas considerações importantes:
