@@ -78,7 +78,7 @@ Automatização Completa: Implementar o modelo em uma aplicação real para auto
 # 🔚 9.0 Conclusão
 Este projeto demonstra o potencial do uso de LLMs para a classificação de produtos na Amazon. O modelo protótipo apresentado obteve resultados promissores, com alta acurácia e similaridade semântica. Com as melhorias propostas nos próximos passos, o modelo poderá ser aprimorado e utilizado em aplicações reais para automatizar tarefas de classificação de produtos na Amazon, proporcionando ganhos significativos em eficiência e redução de custos.
 
-# 9.0 Ferramentas utilizadas
+# 10.0 Ferramentas utilizadas
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
