@@ -68,7 +68,7 @@ Similaridade Semântica: Média de 90%, avaliando a proximidade semântica entre
 
 # 🚀 8.0 Próximos Passos
 ## 🗂️ 8.1 Ampliar o Conjunto de Dados
-Utilizar um Conjunto de Dados Maior: Ampliar a base de dados para melhorar a generalização do modelo.
+Utilizar um Conjunto de Dados Maior: Ampliar a base de dados para melhorar a generalização do modelo. E também, aumentar o conjunto de dados que servirá de exemplo para o modelo (few shot).
 ## 🔍 8.2 Implementar Técnicas Avançadas de Pré-processamento
 Limpeza e Normalização de Texto: Aplicar técnicas avançadas para melhorar a qualidade dos dados de entrada.
 ## 📚 8.3 Explorar Outros Modelos de LLM
