@@ -8,9 +8,9 @@ Este projeto visa criar um protótipo de modelo de Inteligência Artificial (IA)
 ## 🌐 2.1 Contexto da Amazon
 A Amazon, como líder global no comércio eletrônico, enfrenta desafios significativos na classificação manual de milhões de produtos que são adicionados à sua plataforma diariamente. Este processo manual é:
 
-Ineficiente: Demanda muito tempo e recursos humanos.
-Caro: Envolve custos elevados devido à necessidade de uma grande equipe para a categorização manual.
-Propenso a Erros: A natureza manual do processo aumenta a probabilidade de erros de classificação, o que pode afetar negativamente a experiência do cliente.
+- Ineficiente: Demanda muito tempo e recursos humanos.
+- Caro: Envolve custos elevados devido à necessidade de uma grande equipe para a categorização manual.
+- Propenso a Erros: A natureza manual do processo aumenta a probabilidade de erros de classificação, o que pode afetar negativamente a experiência do cliente.
 
 ## ⚠️ 2.2 Impactos Negativos da Classificação Manual
 Aumento de Custos Operacionais: A manutenção de uma grande equipe para classificação manual implica em altos custos trabalhistas.
